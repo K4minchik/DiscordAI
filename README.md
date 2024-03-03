@@ -1,5 +1,10 @@
 Это бот LegoEda, в котором я изучаю и практикую новые функции!
 
+
+Работа функции с AI (Google Teachable Machine)
+
+![изображение](https://github.com/K4minchik/DiscordAI/assets/130905464/2feec388-923c-417c-a1f0-16c18ec64be2)
+
 У бота есть команда help, в которой 10 команд.
 В них входят:
 
