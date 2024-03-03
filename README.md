@@ -1,2 +1,1 @@
-# DiscordAI
-python, AI
+
