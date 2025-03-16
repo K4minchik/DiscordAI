@@ -1,1 +1,1 @@
-ВЫ МОЖЕТЕ ИСПОЛЬЗОВАТЬ КОД КАК ВАМ УГОДНО БЕЗ ОГРАНИЧЕНИЙ ИЛИ ЖЕ ПЛАТЫ
+YOU CAN USE THE CODE AS YOU WANT WITHOUT LIMITATIONS OR PAYMENT
