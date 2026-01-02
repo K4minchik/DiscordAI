@@ -1,12 +1,13 @@
-Это бот LegoEda, в котором я изучаю и практикую новые функции!
+**Supports Russian language**
 
+This is the LegoEda bot where I learn and practice new features!
 
-Работа функции с AI (Google Teachable Machine)
+Working with AI (Google Teachable Machine)
 
 ![изображение](https://github.com/K4minchik/DiscordAI/assets/130905464/2feec388-923c-417c-a1f0-16c18ec64be2)
 
-У бота есть команда help, в которой 10 команд.
-В них входят:
+The bot has a help command, which contains 10 commands.
+These include:
 
     %help - Выводит информацию о командах
     
@@ -28,4 +29,4 @@
     
     %clear - Очищает чат
 
-Также бот воспринимает некоторые плохие слова, приветствия и прощания.
+The bot also recognizes some bad words, greetings and farewells.
