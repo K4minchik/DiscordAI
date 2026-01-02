@@ -1,4 +1,4 @@
-**Supports Russian language**
+**Supports ONLY Russian language**
 
 This is the LegoEda bot where I learn and practice new features!
 
@@ -8,25 +8,25 @@ Working with AI (Google Teachable Machine)
 
 The bot has a help command, which contains 10 commands.
 These include:
-
-    %help - Выводит информацию о командах
     
-    %password (число символов) - Генерирует пароль (макс. 2000 символов)
+    %help - Displays information about commands
     
-    %coin - Жребий
+    %password (number of characters) - Generates a password (max. 2000 characters)
     
-    %joined @member - Выводит когда зашёл на сервер указанный пользователь
+    %coin - Draw lots
     
-    %info - Информация о боте
+    %joined @member - Displays when the specified user joined the server
     
-    %mem (None, toh, video) - Отправляет рандомный мем из категории
+    %info - Bot information
     
-    %duck - Отправляет рандомную картинку утки
+    %mem (None, toh, video) - Sends a random meme from a category
     
-    %load - Загружает файл и проверяет его на наличие в одном из классов (Синички, Орлы, Голуби, Воробьи)
-
-    %mute @member (секунды) - Мутит учасника на кол-во секунд
+    %duck - Sends a random picture of a duck
     
-    %clear - Очищает чат
+    %load - Uploads a file and checks if it belongs to one of the classes (Titmice, Eagles, Pigeons, Sparrows)
+    
+    %mute @member (seconds) - Mutes a member for a certain number of seconds
+    
+    %clear - Clears the chat
 
 The bot also recognizes some bad words, greetings and farewells.
